@@ -1,0 +1,55 @@
+body {
+    overflow: hidden;
+}
+
+.profile {
+    font-family: 'Roboto';
+    padding-top: 250pt;
+    height: 570px;
+    background: #ffebee;
+}
+
+.education {
+    font-family: 'Roboto';
+    font-weight: bold;
+    padding-top: 250pt;
+    height: 670px;
+    background: #ffebee;
+}
+
+.about {
+    font-family: 'Roboto';
+    padding-top: 250pt;
+    height: 670px;
+    background: #ffebee;
+}
+
+.favourite {
+    font-family: 'Roboto';
+    padding-top: 250pt;
+    height: 670px;
+    background: #ffebee;
+}
+
+.title-nav {
+    font-family: 'Roboto';
+}
+
+.title {
+    font-family: 'Pacifico';
+}
+
+.nav-item {
+    margin: 20px;
+    font-size: 12pt;
+}
+
+.navbar-nav {
+    margin-right: 50pt;
+    margin-left: 50pt;
+}
+
+p {
+    font-family: 'Pacifico';
+    text-align: center;
+}
